@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Atatürk TTS
+Comment=Türkçe tarih anlatımı seslendirme
+Exec=AtaturkTTS
+Icon=audio-input-microphone
+Terminal=false
+Categories=AudioVideo;Audio;Utility;
+StartupWMClass=AtaturkTTS
